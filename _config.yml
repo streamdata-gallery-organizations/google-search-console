@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-search-console.api.streamdata.gallery
+title: Streamdata Gallery Google Search Console
+url: google-search-console.streamdata.gallery
 tag: Google Search Console
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-search-console
 github_branch: master
 collections:
